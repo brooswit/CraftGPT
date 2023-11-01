@@ -1,0 +1,2 @@
+# CraftGPT
+Mineflayer + OpenAI
